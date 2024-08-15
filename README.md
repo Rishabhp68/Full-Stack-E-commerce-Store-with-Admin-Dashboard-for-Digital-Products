@@ -1,6 +1,6 @@
-# Full Stack Nextjs E-commerce Store with Admin Dashboard for Digital Products
+# Full Stack NextJs E-commerce Store with Admin Dashboard for Digital Products
 
-Welcome to the Full Stack Nextjs E-commerce Store with Admin Dashboard for Digital Products project! This repository contains a comprehensive solution for a digital image e-commerce platform built with Next.js, Prisma, Stripe, and Tailwind CSS. This application includes an admin dashboard for managing Digital Products and processing orders, with automated email notifications for successful purchases and order history. Note that this project does not include a shopping cart, digital gallery, or user authentication.
+Welcome to the Full Stack NextJs E-commerce Store with Admin Dashboard for Digital Products project! This repository contains a comprehensive solution for a digital image e-commerce platform built with Next.js, Prisma, Stripe, and Tailwind CSS. This application includes an admin dashboard for managing Digital Products and processing orders, with automated email notifications for successful purchases and order history. Note that this project does not include a shopping cart, digital gallery, or user authentication.
 
 ## Table of Contents
 
